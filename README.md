@@ -22,10 +22,14 @@ communication.
 - Gmail API — automated email delivery
 
 ## Screenshots
-![Form](screenshots/form-preview.png)
-![Ticket Log](screenshots/sheet-tickets.png)
+![Form_01](screenshots/form-preview_01.png)
+![Form_02](screenshots/form-preview_02.png)
+![Form_03](screenshots/form-preview_03.png)
+![Ticket Log_01](screenshots/sheet-tickets_01.png)
+![Ticket Log_02](screenshots/sheet-tickets_02.png)
 ![Dashboard](screenshots/sheet-dashboard.png)
 ![Confirmation Email](screenshots/email-confirmation.png)
+![Resolution Email](screenshots/email-resolution.png)
 
 ## Sample tickets
 10 realistic IT support scenarios are documented
